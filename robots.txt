@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /README.txt
-
-Sitemap: https://shersinghrajput264-ctrl.github.io/riyovshu/sitemap.xml
